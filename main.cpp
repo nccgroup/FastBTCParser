@@ -1,3 +1,6 @@
+// Released as open source by NCC Group Plc - https://www.nccgroup.com/
+// https://github.com/nccgroup/FastBTCParser
+
 #include "block.h"
 #include "tx_type_db.h"
 #include "tx_type_over_time_db.h"

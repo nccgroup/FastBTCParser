@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# Released as open source by NCC Group Plc - https://www.nccgroup.com/
+# https://github.com/nccgroup/FastBTCParser
 import matplotlib.pyplot as plt
 import matplotlib.ticker as tck
 import csv

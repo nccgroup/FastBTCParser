@@ -1,3 +1,6 @@
+// Released as open source by NCC Group Plc - https://www.nccgroup.com/
+// https://github.com/nccgroup/FastBTCParser
+
 #ifndef BLOCK_H
 #define BLOCK_H
 

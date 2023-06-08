@@ -1,3 +1,6 @@
+// Released as open source by NCC Group Plc - https://www.nccgroup.com/
+// https://github.com/nccgroup/FastBTCParser
+
 #ifndef TX_TYPE_OVER_TIME_DB_H
 #define TX_TYPE_OVER_TIME_DB_H
 

@@ -1,3 +1,6 @@
+// Released as open source by NCC Group Plc - https://www.nccgroup.com/
+// https://github.com/nccgroup/FastBTCParser
+
 #ifndef FILE_TYPE_DB_H
 #define FILE_TYPE_DB_H
 

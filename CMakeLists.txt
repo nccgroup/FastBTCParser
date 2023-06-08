@@ -1,3 +1,6 @@
+# Released as open source by NCC Group Plc - https://www.nccgroup.com/
+# https://github.com/nccgroup/FastBTCParser
+
 cmake_minimum_required(VERSION 3.22)
 
 if(NOT CMAKE_BUILD_TYPE)
